@@ -12,7 +12,9 @@ This repository is an implement of the paper "Dynamic Graph-Based Bilateral Recu
   publisher={Elsevier}
 }
 ```
+
 ## Framework
+![image](https://github.com/fengzhihef/dynamic-graph-based-bilateral-recurrent-imputation-network/blob/main/figs/framework.jpg)
 
 
 ## Acknowledgement
